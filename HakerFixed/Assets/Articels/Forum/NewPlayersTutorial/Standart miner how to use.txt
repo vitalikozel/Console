@@ -1,0 +1,23 @@
+Author: Aboba | FOUND A FREE MINER WITH UPDATE
+
+command to install miner: <color=>.pkg.install.miner</color> in "terminal" program
+
+Hello everyone, in this article I will tell you about a free miner with an outstanding name [miner].
+
+<i>Let's skip the installation stage, as I've already covered this in other articles</i>
+
+So let's start with a little theory. Due to the fact that the lion's share of calculations for cryptocurrency mining takes place on FoodEXE's cloud servers, this reduces the load on your iron. 
+It also helps to reduce the price of producing one bitcoin, but because we use free software and the company is not an altruist. We have to give the lion's share company, but on the other hand, it provides an opportunity for beginners, so to speak, to rise from the bottom and become at least a level higher than they were.
+
+And so after you have downloaded the program, you can enter the .start command to start the process of mining virtual currency for your wallet. 
+The exact amount you receive depends on from the number of your experience which you can see in the terminal using the [.profile] command. Next, the process will begin, after which you will be shown the amount of currency received and the current balance status unfortunately it is not possible to speed it up (although I heard that some programs are not capable of that). 
+After that, I advise you to enter the .update command to start the process of increasing your experience, which is a lot where you will need (by the way, experience is spent with any attack on you). After increasing your experience, you will receive a slightly larger percentage of the currency, but for this you need to have a minimum of 80 experience.
+
+This is how easy you can start earning currency.
+
+tags:
+tutorial
+miner
+money
+bitcoin
+btc

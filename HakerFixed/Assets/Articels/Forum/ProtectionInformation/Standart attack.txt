@@ -1,0 +1,17 @@
+Author: Clown | Attacks - what are they and how to avoid them
+
+Hello. I'll try to be brief, basically attacks will be made on you with what periodicity no one knows.
+But you have to be ready anyway. Unfortunately, the corporation that developed these terminals didn't care too much about security.
+So if you're new, you should have the default user shell installed, which unfortunately doesn't give you access to advanced security features.
+But it is very easy to use.
+
+In general, you have to click on the drop-down exclamation marks. There are several types of them.
+And you have to click on some before they turn red. And some will wait until they are fully recharged.
+
+In general, the topic is quite simple, you have to figure it out yourself. But if you want to practice your attack then chant the command: <color=#3A77FE>pt</color>
+
+Tags:
+
+attack
+protection
+standart attack

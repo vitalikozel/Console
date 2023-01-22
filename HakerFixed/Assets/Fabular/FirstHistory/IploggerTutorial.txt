@@ -1,0 +1,18 @@
+Hello. If you are reading this letter, you should already have these programs installed: <color=#3A77FE>iplogger</color>, <color=#3A77FE>wpopu.ru</color>
+
+Next, you must go to the <color=#3A77FE>iplogger</color> program and write the command in it: <color=#C19B00>.search.def.com</color>
+
+Then enter the command <color=#C19B00>.ip.1</color> You will see ip adress, you need to write it in notepad.
+
+<i>After that, go to the program</i> <color=#3A77FE>wpopu.ru</color> <i>then enter the command</i> <color=#C19B00>.ping.ip adress</color> <i>instead of ip adress enter the IP address that you wrote down in notepad.</i>
+
+Then enter these commands in order: <color=#C19B00>.fire</color>, <color=#C19B00>.proxy</color>, <color=#C19B00>.probe</color>, <color=# C19B00>.break</color>
+
+<b>If required, enter them until you manage to lower the machine's protection level to zero. After that, you will be protected by one hacked machine.</b>
+
+For more information, see the <color=#3A77FE>chrome</color> program via the <color=#C19B00>.forum.search query</color> command.
+
+You can read about how to use chrome in the previous letter.
+
+If you have any questions, you can ask them here: <u><i><color=#00ffffff><link=https://t.me/+BFDxySEfV6xhNzI0>Questions</link></color></i></u>
+Channel with more information: <u><i><color=#00ffffff><link=https://t.me/patatocorp>Chennel with information and video tutorials</link></color></i></u>

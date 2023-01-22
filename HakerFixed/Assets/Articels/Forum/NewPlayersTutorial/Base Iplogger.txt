@@ -1,0 +1,29 @@
+Author: Aboba | How to use apilogger?
+Very simple, but first some theory
+.
+So, I am more than sure that you will use the basic iplogger (it is installed using the command <color=orange>.pkg.install.iplogger</color>)
+Here I will analyze only the basic commands, but if you want to understand the topic more, I advise you to enter the tag: <color=green>iplogger</color>
+
+Here is a list of the basics of what you can do with it:
+1. I entered the .search.def.com command, it displays a message that it found, for example, 8 machines (means that 8 machines were added to the pool)
+2. Next, I enter the .ip.8 command and get the ip of the machine that is in the 8th place in the pool of connected machines
+3. Well, then you can already try to break through information about it, this is also done in this program but with the help of other commands
+
+<i>Hint: Don't forget to enter the command: <color=orange>.commands</color> it will list all available commands</i>
+
+By the way, a very important tip: write down all the information you receive in a notebook.
+
+ You can see my other articles using the tag: <color=green>aboba</color>
+
+ Components required for installation:
+ 
+ BTC: 35
+ Exp: 42
+ Code name: iplogger
+
+ tags:
+ hack
+ iplogger
+ ip
+ attack
+ tutorial

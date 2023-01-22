@@ -1,0 +1,36 @@
+Author: Aboba |Tutorial about contracts, work, money \n
+
+In this article I will tell you how to use chrome with the help of this you can find tasks for breaking and also use the necessary programs such as for example iplogger. 
+
+Chrome has a built-in spending plugin that can be used to earn extra income, experience, and status.
+
+Called with the <color=#C19B00>.work.contracts</color> command, it will show you the available contracts with brief information about them. If you want to take some kind of contract, then enter the command <color=#C19B00>.work.contract id -take</color> (an example of what the .work.3123 -take command might look like).
+
+Next, you will be shown basic information about the contract and you will be able to fulfill it; in some cases, additional information about the task will be provided (for example, the ip address of the victim).
+
+If you don't know what to do or didn't have time to read the task, enter the command <color=#C19B00>.work.contract -v</color> and it will display all the necessary information about the contract.
+
+Also, when you have already completed the task and disconnected from the machine (for more information, type <color=#C19B00>.forum.break connection</color>), you will have to return to chrome and write the command [. work.contract id -fin</color> (an example of what the .work.3123 -fin command might look like).
+
+After that, you will automatically be given a reward. But if you complete the task incorrectly or do something wrong, you will be given a fine (in some contracts it is prescribed, and in some not), but the standard one is simply to deprive you of your reputation. Well, I guess that's all the information you might need to get started.
+Also, the plugin automatically scans your connected machines, so before checking the completed task, I advise you to disable them.
+
+Next, I would advise you to study the program: <color=green>wpopu.ru</color>
+
+I also advise you to read the article about money: 
+
+<color=green>miner</color>
+<color=green>money</color>
+<color=green>btc</color>
+
+|Helper tags:|
+|------------|
+|haker       |
+|hack        |
+|console     |
+|money       |
+|exp         |
+|expieriens  |
+|turoarial   |
+|------------|
+

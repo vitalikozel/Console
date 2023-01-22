@@ -1,0 +1,52 @@
+Author: Clown | How to use the wpopu.ru program
+
+So the program in wpopu.ru helps to break into the base machines, which can install the connected machine. And also provide access to the file system, it can, but for this it is necessary to fulfill all the conditions for hacking.
+
+Terms:
+<color=#C19B00>
+1. Open proxy
+2. Zero protection
+</color>
+
+<color=#F9F1A4>How to unblock proxy:</color>
+But in order to unblock the proxy, the firewall must be unblocked and the number must correspond to the number of open ports. Since wpopu.ru is a rather weak program, you can unblock <b><u>firewall, proxy, protection level and number of open ports in it</u></b>
+
+<color=#F9F1A4>Now let's get down to practice</color>:
+First, install the <b>wpopu.ru</b> program using the <color=#3A77FE>.pkg.install.wpopu.ru</color> command, but since the installation command is only available in the terminal, go to install and then return to the article.
+After installation, go to the program and enter the command: <color=#3A77FE>.ping.<victim's address></color> (example: .ping.213.233.230) after which the connection process will start . If it is successful, you will be able to operate with almost all the commands that are available in the program for <b>wpopu.ru</b>.
+
+------
+<color=#F9F1A4>Next, there are two outcomes of events</color>:
+<color=green>1</color>. The car you are attacking has level zero. Then you just enter the command <color=#3A77FE>.break</color> and the process of launching the virus into the attacking machine starts. 
+There is some chance that the virus will be detected by the antivirus installed on the machine if he notices it, then you must enter the command <color=#3A77FE>.break</color>. 
+Until the virus has passed all this time, the program <b>wpopu.ru</b> will repack and use some methods antivirus bypass. 
+After the virus has passed the attacking machine will list all the funds that were on this machine. After that, I advise you to disconnect from it using the command <color=#3A77FE>.break.connection</color>
+
+<color=green>2</color>. The machine you are attacking has a defense level greater than zero. Then you have to hack <b>firewall</b>, to do this, enter the command <color=#3A77FE>.fire</color> and then enter the commands that will be displayed on the screen. Why this is done is not clear, but apparently the developer <b>wpopu.ru</b> is too stupid to set it to be done automatically.
+
+Next, when you hacked <b>firewall</b> you can enter the command <color=#3A77FE>.proxy</color> this will allow you to hack the proxy, then enter the command <color=#3A77FE>.probe</color> to break the immediate defense.
+Then you can go to the first point. Well, that's all you need to know.
+------
+
+<u>Also, every fully hacked machine will be protected. The number of hacked cars can be viewed in: menu -> profile -> count break mashine</u>
+
+<b><u>The machine will be considered hacked only after the successful completion of the <color=#3A77FE>.break</color> command</u></b>
+
+If you want to learn how to use the file system, go to my telegram channel: <i>t.me/patatocorp</i>
+
+ Components required for installation:
+ 
+ BTC: 23
+ Exp: 36
+ Code name: iplogger
+
+<u>I also advise you to read the information through the tags below</u>:
+Tags:
+
+iplogger
+hack
+wpopu.ru
+firewall
+how to hack
+attack
+tutorial

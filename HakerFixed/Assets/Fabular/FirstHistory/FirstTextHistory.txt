@@ -1,0 +1,42 @@
+Basic textbook.
+
+To view *currect program* commands, type: <color=#C19B00>.commands</color>
+
+<color=#C19B00>.cd.<color=#3A77FE>program name</color></color> - To move between programs, it is available in all programs.
+<color=#C19B00>.profile</color> "TERMINAL" - to view all programs. <color=#3A77FE>Program name</color> will be highlighted with this color: <color=#3A77FE>program name</color>
+
+If you have any questions, you can ask them here: <u><i><color=#00ffffff><link=https://t.me/+BFDxySEfV6xhNzI0>Questions</link></color> </i > </u>
+
+Then try this test case:
+-------
+1. Learn the commands in the <color=#3A77FE>terminal</color> program with the help of the acquired knowledge. (Hint: use the command <color=#C19B00>.commands</color> in a "terminal" program)
+
+2. Install this program
+
+     * <color=#3A77FE>wpopu.ru</color> - here you can HACK PROTECTION mashine
+     * <color=#3A77FE>minier</color> - start mining BTC and EXP. <b><i>This aplication is free</i></b>
+
+3. Learn the commands about aplications, what you install, and check '.inf' command to view information about them.
+
+5. Mining 10|lvl EXP
+
+6. Hack protection 5 mashines in program <color=#3A77FE>wpopu.ru</color>
+
+7. Fight with 5 MASHINES in <color=#3A77FE>terminal</color> program. *You can enter: ".sf" in terminal program, to HACK MASHINE another people*
+
+8. click on the button on top after completing all these points
+-------
+
+You can ask your question here: <u><i><color=#00ffffff><link=https://t.me/+BFDxySEfV6xhNzI0>Questions</link></color></i></y>
+Telegram channel: <u><i><color=#00ffffff><link=http://t.me/patatocorp>chanell</link></color></i></u>
+You can watch a tutorial video on how to use Chrome: <u><i><color=#00ffffff><link=https://www.youtube.com/watch?v=mZYPWjjP0bs>here</link></color></i></u>
+
+Useful information:
+Every program has commands. They are built according to the following principle .<command>.<argument>-<flag>
+
+command examples:
+<color=#C19B00>.commands</color> - command dont have argument
+<color=#C19B00>.forum.first steps</color> - command with argument "first steps"
+<color=#C19B00>.forum.9123 -v</color> - command with argument "9123" and flag "-v"
+
+To view the *actual program* commands, type: <color=#C19B00>.commands</color>

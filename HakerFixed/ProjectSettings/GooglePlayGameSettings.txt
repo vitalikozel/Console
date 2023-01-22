@@ -1,0 +1,9 @@
+lastUpgrade=01014
+proj.pluginVersion=0.10.14
+proj.AppId=882813099300
+and.BundleId=com.potatocorp2
+proj.classDir=Assets
+proj.ConstantsClassName=GPG
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e882813099300%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.potatocorp2%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+Greatest+Hackers+%3a0--%3e%0d%0a++%3cstring+name%3d%22leaderboard_greatest_hackers_0%22+translatable%3d%22false%22%3eCgkIpLqL3tgZEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=882813099300-kvevub7krhal4g0eq2ara6ljagm1vdtu.apps.googleusercontent.com
+android.SetupDone=true

@@ -1,0 +1,41 @@
+Hello.
+
+Next, I will teach you another of the main mechanics, this is the mechanics of finding information about anything. Whether it be ways to earn money or some kind of program. Or information about the victim.
+
+So, the most important thing. Command for searching information in "chrome" program <color==#C19B00>.forum.<argument></color>
+
+Instead of <argument> you can write anything like <color==#C19B00>.forum.asdasdasd</color> or <color==#C19B00>.forum.t</color> or query <color==#C19B00 >.forum.program wpopu.ru</color>
+
+But most importantly, you can specify <color=green>tags</color> exp. <color==#C19B00>.forum.<color=green><your tag></color></color>, specific search terms <b>aksjdn</b> and <color=green>author names</color>. Therefore, now I will highlight those words by which it is worth looking for information. Also, do not forget that the list of commands available for the program can be viewed using the command: <color==#C19B00>.commands</color>
+
+<i>The information search mechanic is also one of the main mechanics</i>
+
+!All programs from this article are paid, so I advise you to read the article about <color=green>miner</color>!
+!If you don't understand how to use the <color=#C19B00>.forum.<argument></color> command, please read the first email!
+
+In order to hack someone, we need at least basic information about the victim. Therefore, look for information about the program <color=green>iplogger</color> (How to do this was described above)
+
+You still need to install the basic hack program. It is called <color=green>wpopu.ru</color>. Just enter the command: <color=#C19B00>.pkg.install.wpopu.ru</color>. in a terminal program
+
+The game has many mechanics and hacking methods. But there are only 2 of them.
+
+1. Brutus Borbs
+2. Blebsploit
+
+1. Brutus Borbs is based on the fact that you need to have time to enter the command that is shown on the screen. For practice, enter the command: <color=#C19B00>at</color> in the "terminal" program
+
+2. Blebsploit is needed in order to get root access to the system and manage it at a basic level. To do this, you need to choose the right <color=green>exploits</color> for the attacked target (but initially you have a basic exploit).
+And also use them in a timely manner. Also deflect attacks directed at you by clicking on the attack circles.
+
+Parameter: "Overload" is responsible for the protection armor, if it drops to zero, the "Proccessor" parameter will start to be spent.
+Parameter: "Proccessor" is responsible for the protection health, if it drops to zero in the attacked machine, you will get full <color=green>root</color> access to the attacked machine.
+
+To practice this hack, enter the command: <color==#C19B00>sf</color> in the terminal program.
+
+Further, I advise you to read an article on how to use the program <color=green>wpopu.ru</color>
+
+If you have any questions, you can ask them here: <u><i><color=#00ffffff><link=https://t.me/+BFDxySEfV6xhNzI0>Questions</link></color> </i > </u>
+
+tags:
+tutorial
+first steps
